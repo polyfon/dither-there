@@ -1,5 +1,3 @@
-# DITH
-
 ## What is Dithering?
 
 Dithering is a technique used to create the illusion of color depth in images with limited color palettes. By strategically placing pixels and distributing color errors, dithering algorithms can make images with only a few colors appear to have much richer detail and gradation.
